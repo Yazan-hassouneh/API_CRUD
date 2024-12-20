@@ -1,0 +1,63 @@
+# ASP.NET Core
+*.dll
+*.exe
+*.log
+*.sql
+*.sqlite
+*.pdb
+*.cache
+*.config
+*.dbmdl
+*.jfm
+*.userosscache
+*.vspscc
+*.vssscc
+*.suo
+*.user
+*.rsuser
+*.sln.docstates
+*.csproj.user
+*.appsettings.json
+
+# Visual Studio
+.vs/
+*.vscode/
+*.code-workspace
+
+# Build output
+bin/
+obj/
+out/
+*.db
+
+# Publish output
+wwwroot/
+
+# npm packages
+node_modules/
+
+# Logs
+*.log
+*.nupkg
+*.snupkg
+
+# Temporary files
+tmp/
+temp/
+
+# Resharper files
+_ReSharper.Caches/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.idea/
